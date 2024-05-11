@@ -1,0 +1,1 @@
+in home ploi stationfurniture.store public index.php at line 12 yii base Application run 6789101112 Load shared bootstrap require dirname( bootstrap.php Load and run Craft var craft web Application app app require craftcms cms bootstrap web.php app run 2024 05 03 11 02 50 nginx 1.18.0 Yii Framework 2.0.48.1 
